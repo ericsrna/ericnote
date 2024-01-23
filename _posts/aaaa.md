@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Welcome to my note!"
+---
+
 # 뱀파이어 서바이벌 장르 모작, 인프런
 
 ---
